@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777759243984",
+    "firebase_url": "https://fir-login-68635-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fir-login-68635",
+    "storage_bucket": "fir-login-68635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777759243984:android:8d334d62c539828d13a8d5",
+        "android_client_info": {
+          "package_name": "es.upm.miw.spotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777759243984-6la9fv2195l10ead6do4ccajf92leq4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0gs01oLSdiR11onlXsYGUgsWwuIsN1i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777759243984-6la9fv2195l10ead6do4ccajf92leq4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
